@@ -1,10 +1,50 @@
-{
-    "schedule": [
-        {
-            "datetime": "09/08/2021 20:00",
-            "guest": "Rato Borrachudo",
-            "link": "https://twitter.com/ratoborrachudo",
-            "image": "https://gabrieldagama.github.io/agenda-flow/images/ratoborrachudo.png"
-        }
-    ]
-}
+[
+    {
+        "datetime": "13/08/2021 12:00",
+        "guest": "Paulo Muzy",
+        "guest-link": "https://twitter.com/paulomuzy",
+        "video-link": "",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/paulo-muzy.png",
+        "cancelled": false
+    },
+    {
+        "datetime": "12/08/2021 17:00",
+        "guest": "Caito Maia",
+        "guest-link": "https://twitter.com/caito_maia",
+        "video-link": "",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/caito-maia.png",
+        "cancelled": true
+    },
+    {
+        "datetime": "11/08/2021 21:00",
+        "guest": "Diana Zambrozuski e Gabriel Pato",
+        "guest-link": "https://twitter.com/DianaZuski",
+        "video-link": "https://www.youtube.com/watch?v=i4vn7-kAlc8&t=984s",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/diana-e-pato.png",
+        "cancelled": false
+    },
+    {
+        "datetime": "11/08/2021 15:00",
+        "guest": "Kelvin Hoefler",
+        "guest-link": "https://twitter.com/kelvinhoefler",
+        "video-link": "https://www.youtube.com/watch?v=VEKtR3W_dxQ",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/kelvinhoefler.png",
+        "cancelled": false
+    },
+    {
+        "datetime": "10/08/2021 20:00",
+        "guest": "Extra Flow",
+        "guest-link": "",
+        "video-link": "https://www.youtube.com/watch?v=bNZHHmLklWE&t=1s",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/extra-34.png",
+        "cancelled": false
+    },
+    {
+        "datetime": "09/08/2021 20:00",
+        "guest": "Rato Borrachudo",
+        "guest-link": "https://twitter.com/ratoborrachudo",
+        "video-link": "https://www.youtube.com/watch?v=gdwDNf_K7OA",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/ratoborrachudo.png",
+        "cancelled": false
+    }
+]
