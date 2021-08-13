@@ -20,7 +20,7 @@
         "guest": "Diana Zambrozuski e Gabriel Pato",
         "guest-link": "https://twitter.com/DianaZuski",
         "video-link": "https://www.youtube.com/watch?v=i4vn7-kAlc8&t=984s",
-        "image": "https://gabrieldagama.github.io/agenda-flow/images/diana-e-pato.png",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/diana-zuski.png",
         "cancelled": false
     },
     {
@@ -28,7 +28,7 @@
         "guest": "Kelvin Hoefler",
         "guest-link": "https://twitter.com/kelvinhoefler",
         "video-link": "https://www.youtube.com/watch?v=VEKtR3W_dxQ",
-        "image": "https://gabrieldagama.github.io/agenda-flow/images/kelvinhoefler.png",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/kelvinho-efler.png",
         "cancelled": false
     },
     {
@@ -36,7 +36,7 @@
         "guest": "Extra Flow",
         "guest-link": "",
         "video-link": "https://www.youtube.com/watch?v=bNZHHmLklWE&t=1s",
-        "image": "https://gabrieldagama.github.io/agenda-flow/images/extra-34.png",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/extra-flow.png",
         "cancelled": false
     },
     {
@@ -44,7 +44,7 @@
         "guest": "Rato Borrachudo",
         "guest-link": "https://twitter.com/ratoborrachudo",
         "video-link": "https://www.youtube.com/watch?v=gdwDNf_K7OA",
-        "image": "https://gabrieldagama.github.io/agenda-flow/images/ratoborrachudo.png",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/rato-borrachudo.png",
         "cancelled": false
     }
 ]
