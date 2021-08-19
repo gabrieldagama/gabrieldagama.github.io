@@ -1,5 +1,13 @@
 [
     {
+        "datetime": "20/08/2021 20:00",
+        "guest": "Flavio Augusto",
+        "guestLink": "https://twitter.com/GeracaodeValor",
+        "videoLink": "",
+        "image": "https://gabrieldagama.github.io/agenda-flow/images/flavio-augusto.png",
+        "cancelled": false
+    },
+    {
         "datetime": "20/08/2021 14:00",
         "guest": "Magalzão e Bolivia",
         "guestLink": "https://twitter.com/magalzaoshow",
@@ -19,16 +27,8 @@
         "datetime": "18/08/2021 20:00",
         "guest": "Sergio Mallandro",
         "guestLink": "https://twitter.com/MallandroSergio",
-        "videoLink": "",
+        "videoLink": "https://www.youtube.com/watch?v=hp14APK8Xws",
         "image": "https://gabrieldagama.github.io/agenda-flow/images/sergio-malandro.png",
-        "cancelled": false
-    },
-    {
-        "datetime": "17/08/2021 20:00",
-        "guest": "Flavio Augusto",
-        "guestLink": "https://twitter.com/GeracaodeValor",
-        "videoLink": "",
-        "image": "https://gabrieldagama.github.io/agenda-flow/images/flavio-augusto.png",
         "cancelled": false
     },
     {
